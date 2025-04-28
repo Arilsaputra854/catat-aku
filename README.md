@@ -1,16 +1,23 @@
-# catat_aku
 
-A new Flutter project.
+# Catat Aku
 
-## Getting Started
+Catat Aku (**Note me** in english) is a note-taking application that is fully offline, allowing users to create and store notes locally on their devices without requiring an internet connection. This application is designed to provide a simple, fast, and secure experience in storing personal notes.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Offline Note-Taking:** All notes are stored locally on the device, without the need for an internet connection.
+- **Note Management:** Users can easily add, edit, and delete notes.
+- **Local Storage:** Data is securely stored using a local database on the device.
+- **Sorting by Time:** Notes can be sorted by the latest update time, ensuring the most recent notes appear first.
+- **Simple Interface:** A minimalist design to make it easier for users to access and manage their notes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech
+
+- Flutter: The main framework used for mobile application development.
+- SQLite: A local database used for persistently storing notes.
+- Dart: The programming language used for developing the application.
+## Authors
+
+- [@arilsaputra854](https://www.github.com/arilsaputra854)
+
